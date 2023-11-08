@@ -4,7 +4,7 @@
 
 - Weather React App é uma aplicação que permite a busca do clima de uma cidade ou país em tempo real.
 
-- Este é um projeto de estudos já feito anteriormente em html, css e JavaScript puro e agora refiz usando React.
+- Este é um projeto de estudos feito anteriormente em html, css e JavaScript puro e agora refiz usando React.
 
 ## Ferramentas usadas:
 - [VScode](https://code.visualstudio.com/)
