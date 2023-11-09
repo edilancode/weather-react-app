@@ -1,6 +1,6 @@
 # Weather React.js App
 
-![weather-react-app](./public/assets/weather-layout.jpg)
+![weather-react-app](./assets/weather-layout.png)
 
 - Weather React App é uma aplicação que permite a busca do clima de uma cidade ou país em tempo real.
 
